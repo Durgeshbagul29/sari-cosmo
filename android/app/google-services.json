@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663850029131",
+    "project_id": "sariscosmo",
+    "storage_bucket": "sariscosmo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663850029131:android:e66e054c11052e63f07dce",
+        "android_client_info": {
+          "package_name": "com.abracadabra.saris_cosmo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-O1K7gzi4EnN9hZGBmq093vnR0wbK8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

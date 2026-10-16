@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Soft White Luxury Glow Background -->
+    <item
+        android:width="160dp"
+        android:height="160dp"
+        android:gravity="center">
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:gradientRadius="80dp"
+                android:startColor="#40FFFFFF"
+                android:endColor="#00FFFFFF"/>
+        </shape>
+    </item>
+
+    <!-- Centered Logo -->
+    <item
+        android:width="100dp"
+        android:height="100dp"
+        android:gravity="center">
+        <bitmap
+            android:src="@drawable/splash_logo"
+            android:filter="true" />
+    </item>
+</layer-list>
