@@ -98,9 +98,9 @@ flutter build apk --release
 
 | | |
 |---|---|
-| **Email** | archana.herbals@gmail.com |
-| **Phone** | +91 77418 33859 |
-| **Website** | www.archanaherbals.com |
+| **Email** | archana@gmail.com |
+| **Phone** | +91 4345 33859 |
+| **Website** | www.example.com |
 
 ## 📄 License
 
